@@ -1,0 +1,13 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+altair
+matplotlib
+wordcloud
+transformers==4.37.2
+tokenizers<0.16
+safetensors<0.5
+huggingface-hub<0.21
+protobuf<5
+tensorflow==2.15.1
